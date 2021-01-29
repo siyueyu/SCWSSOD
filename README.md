@@ -2,8 +2,8 @@
 This is the implementation of `Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence (AAAI2021)`.
 # Training
 ## Requirements
-1.Clone this project and install required pytorch first.
-2.pip install -r requirements.txt
+1. Clone this project and install required pytorch first.
+2. pip install -r requirements.txt
 ## Training data
 The training data can be downloaed from [Scribble_Saliency](https://github.com/JingZhang617/Scribble_Saliency).
 ## Pretrained weights for backbone
