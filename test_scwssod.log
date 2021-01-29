@@ -1,7 +1,0 @@
-INFO 2021-01-28 21:07:59 test.py: 91] ECSSD MAE=0.048997, F-score=0.913269, len(imgs)=1000, fps=44.7037
-INFO 2021-01-28 21:13:29 test.py: 91] DUTS MAE=0.048816, F-score=0.841541, len(imgs)=5019, fps=45.2010
-INFO 2021-01-28 21:21:00 test.py: 91] DUT-OMRON MAE=0.059960, F-score=0.778770, len(imgs)=5168, fps=45.0422
-INFO 2021-01-28 21:24:09 test.py: 91] PASCAL-S MAE=0.078443, F-score=0.846559, len(imgs)=850, fps=45.3733
-INFO 2021-01-28 21:29:00 test.py: 91] HKU-IS MAE=0.037574, F-score=0.906887, len(imgs)=4447, fps=45.3232
-INFO 2021-01-28 21:37:13 test.py: 91] THUR15K MAE=0.069328, F-score=0.780347, len(imgs)=6232, fps=45.1825
-INFO 2021-01-28 21:45:02 test.py: 91] DUTS MAE=0.048816, F-score=0.841541, len(imgs)=5019, fps=45.2528
